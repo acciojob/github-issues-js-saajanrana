@@ -1,4 +1,3 @@
-//your code here
 const issuesList = document.getElementById('issues-list');
 const pageHeading = document.getElementById('page-heading');
 let currentPageNumber = 1;
